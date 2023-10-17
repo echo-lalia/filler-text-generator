@@ -1,11 +1,17 @@
 # filler-text-generator
 Generate unique english-like gibberish for use as filler text. Similar in concept to the use of "Lorem Ipsum", but randomly generated from english syllables.
 
+
+
 This script uses a pre-defined set of the most common english syllables to generate english-sounding words. 
 It also has quite a bit of additional logic included to add variation to the generated text, and create more natural looking text. 
 
 Run it in a terminal to see a demo, or import it to use in another script. 
 This is mainly a silly little idea I had, but it may come in handy some day. 
+
+
+# use:
+
 
 The main function you'd likely use is the generate function, which returns a string of text that is a specific number of characters long. 
 Here's a simple example:
